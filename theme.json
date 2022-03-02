@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "settings": {
+  		"appearanceTools": true,
+  		"layout": {
+  			"contentSize": "820px",
+  			"wideSize": "1200px"
+  		}
+  	}
+    "styles": {},
+    "templateParts": []
+}
